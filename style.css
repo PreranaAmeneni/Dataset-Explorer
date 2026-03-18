@@ -1,0 +1,49 @@
+body{
+font-family: Arial, sans-serif;
+background:#f4f6f8;
+padding:30px;
+}
+
+h1{
+text-align:center;
+}
+
+input{
+margin:20px 0;
+}
+
+#tableArea{
+background:white;
+padding:15px;
+border-radius:8px;
+margin-bottom:20px;
+}
+
+#summaryArea{
+background:white;
+padding:15px;
+border-radius:8px;
+margin-bottom:20px;
+}
+
+canvas{
+background:white;
+padding:15px;
+border-radius:8px;
+}
+
+table{
+width:100%;
+border-collapse: collapse;
+}
+
+th{
+background:#333;
+color:white;
+}
+
+td, th{
+padding:8px;
+border:1px solid #ddd;
+text-align:center;
+}
